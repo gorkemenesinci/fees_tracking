@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323541638484",
+    "project_id": "fees-tracking",
+    "storage_bucket": "fees-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323541638484:android:1d22b3dd9d6e3e97bcbcc1",
+        "android_client_info": {
+          "package_name": "com.example.fees_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAr-yI9adYs0lyDn6jS9pIOYxfS-4Ou-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
